@@ -1,0 +1,14 @@
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\bin\Debug\netstandard2.0\CalculatorMVVM.deps.json
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\bin\Debug\netstandard2.0\CalculatorMVVM.dll
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\bin\Debug\netstandard2.0\ref\CalculatorMVVM.dll
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\bin\Debug\netstandard2.0\CalculatorMVVM.pdb
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\CalculatorMVVM.csprojAssemblyReference.cache
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\View\Calculator.xaml.g.cs
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\CalculatorMVVM.AssemblyInfoInputs.cache
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\CalculatorMVVM.AssemblyInfo.cs
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\CalculatorMVVM.dll
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\ref\CalculatorMVVM.dll
+C:\Users\william\source\repos\CalculatorMVVM\CalculatorMVVM\CalculatorMVVM\obj\Debug\netstandard2.0\CalculatorMVVM.pdb
